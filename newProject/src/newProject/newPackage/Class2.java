@@ -6,4 +6,8 @@ public class Class2 {
 	public void mathod1() {
 		
 	}
+	
+	public void method2() {
+		System.out.println("This is method2");
+	}
 }
